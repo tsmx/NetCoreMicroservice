@@ -5,9 +5,9 @@ A very basic .Net Core 3.1 microservice example.
 ## Prerequisites
 - .Net Core 3.1
 - VS Code plus plugin "C#"
-- Docker CE
+- Docker CE [optional]
 
-## Useful commands:
+## Useful commands
 
 ```
 dotnet new webapi -o [project-name] --no-https
