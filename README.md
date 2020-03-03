@@ -6,8 +6,8 @@ A very basic .Net Core 3.1 microservice example.
 
 Run the service and send requests to http://localhost:5000/testservice using the following http methods:
 
-- GET: returns an hello message
-- POST: awaits a valid JSON and echoes it back in the response, HTTP-500 if no valid JSON was sent
+- GET: returns a hello message
+- POST: awaits a valid JSON and echoes it back in the response (serialize & de-serialize test), HTTP-500 if no valid JSON was sent
 
 Creating & running with Docker:
 ```
