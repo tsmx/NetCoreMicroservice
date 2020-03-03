@@ -16,3 +16,23 @@ c:\Users\Sebastian\Documents\VS-Code-Projects\NetCoreMicroservice\obj\Debug\netc
 c:\Users\Sebastian\Documents\VS-Code-Projects\NetCoreMicroservice\obj\Debug\netcoreapp3.1\staticwebassets\NetCoreMicroservice.StaticWebAssets.xml
 c:\Users\Sebastian\Documents\VS-Code-Projects\NetCoreMicroservice\obj\Debug\netcoreapp3.1\NetCoreMicroservice.dll
 c:\Users\Sebastian\Documents\VS-Code-Projects\NetCoreMicroservice\obj\Debug\netcoreapp3.1\NetCoreMicroservice.pdb
+h:\Eigene Dateien\VSCode-Projects\NetCoreMicroservice\bin\Debug\netcoreapp3.1\appsettings.Development.json
+h:\Eigene Dateien\VSCode-Projects\NetCoreMicroservice\bin\Debug\netcoreapp3.1\appsettings.json
+h:\Eigene Dateien\VSCode-Projects\NetCoreMicroservice\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+h:\Eigene Dateien\VSCode-Projects\NetCoreMicroservice\bin\Debug\netcoreapp3.1\NetCoreMicroservice.exe
+H:\Eigene Dateien\VSCode-Projects\NetCoreMicroservice\bin\Debug\netcoreapp3.1\NetCoreMicroservice.deps.json
+H:\Eigene Dateien\VSCode-Projects\NetCoreMicroservice\bin\Debug\netcoreapp3.1\NetCoreMicroservice.runtimeconfig.json
+H:\Eigene Dateien\VSCode-Projects\NetCoreMicroservice\bin\Debug\netcoreapp3.1\NetCoreMicroservice.runtimeconfig.dev.json
+h:\Eigene Dateien\VSCode-Projects\NetCoreMicroservice\bin\Debug\netcoreapp3.1\NetCoreMicroservice.dll
+h:\Eigene Dateien\VSCode-Projects\NetCoreMicroservice\bin\Debug\netcoreapp3.1\NetCoreMicroservice.pdb
+h:\Eigene Dateien\VSCode-Projects\NetCoreMicroservice\obj\Debug\netcoreapp3.1\NetCoreMicroservice.csprojAssemblyReference.cache
+h:\Eigene Dateien\VSCode-Projects\NetCoreMicroservice\obj\Debug\netcoreapp3.1\NetCoreMicroservice.MvcApplicationPartsAssemblyInfo.cache
+h:\Eigene Dateien\VSCode-Projects\NetCoreMicroservice\obj\Debug\netcoreapp3.1\NetCoreMicroservice.AssemblyInfoInputs.cache
+h:\Eigene Dateien\VSCode-Projects\NetCoreMicroservice\obj\Debug\netcoreapp3.1\NetCoreMicroservice.AssemblyInfo.cs
+h:\Eigene Dateien\VSCode-Projects\NetCoreMicroservice\obj\Debug\netcoreapp3.1\NetCoreMicroservice.RazorTargetAssemblyInfo.cache
+h:\Eigene Dateien\VSCode-Projects\NetCoreMicroservice\obj\Debug\netcoreapp3.1\staticwebassets\NetCoreMicroservice.StaticWebAssets.Manifest.cache
+h:\Eigene Dateien\VSCode-Projects\NetCoreMicroservice\obj\Debug\netcoreapp3.1\staticwebassets\NetCoreMicroservice.StaticWebAssets.xml
+h:\Eigene Dateien\VSCode-Projects\NetCoreMicroservice\obj\Debug\netcoreapp3.1\NetCoreMicroservice.dll
+h:\Eigene Dateien\VSCode-Projects\NetCoreMicroservice\obj\Debug\netcoreapp3.1\NetCoreMicroservice.pdb
+h:\Eigene Dateien\VSCode-Projects\NetCoreMicroservice\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+H:\Eigene Dateien\VSCode-Projects\NetCoreMicroservice\obj\Debug\netcoreapp3.1\NetCoreMicroservice.csproj.CopyComplete
