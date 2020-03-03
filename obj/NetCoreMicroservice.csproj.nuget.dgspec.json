@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "H:\\Eigene Dateien\\VSCode-Projects\\NetCoreMicroservice\\NetCoreMicroservice.csproj": {}
+    "C:\\Users\\Sebastian\\Documents\\VS-Code-Projects\\NetCoreMicroservice\\NetCoreMicroservice.csproj": {}
   },
   "projects": {
-    "H:\\Eigene Dateien\\VSCode-Projects\\NetCoreMicroservice\\NetCoreMicroservice.csproj": {
+    "C:\\Users\\Sebastian\\Documents\\VS-Code-Projects\\NetCoreMicroservice\\NetCoreMicroservice.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "H:\\Eigene Dateien\\VSCode-Projects\\NetCoreMicroservice\\NetCoreMicroservice.csproj",
+        "projectUniqueName": "C:\\Users\\Sebastian\\Documents\\VS-Code-Projects\\NetCoreMicroservice\\NetCoreMicroservice.csproj",
         "projectName": "NetCoreMicroservice",
-        "projectPath": "H:\\Eigene Dateien\\VSCode-Projects\\NetCoreMicroservice\\NetCoreMicroservice.csproj",
-        "packagesPath": "C:\\Users\\strickes\\.nuget\\packages\\",
-        "outputPath": "H:\\Eigene Dateien\\VSCode-Projects\\NetCoreMicroservice\\obj\\",
+        "projectPath": "C:\\Users\\Sebastian\\Documents\\VS-Code-Projects\\NetCoreMicroservice\\NetCoreMicroservice.csproj",
+        "packagesPath": "C:\\Users\\Sebastian\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Sebastian\\Documents\\VS-Code-Projects\\NetCoreMicroservice\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\strickes\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Sebastian\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
