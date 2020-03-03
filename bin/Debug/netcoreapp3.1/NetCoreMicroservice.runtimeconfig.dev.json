@@ -1,8 +1,0 @@
-{
-  "runtimeOptions": {
-    "additionalProbingPaths": [
-      "C:\\Users\\strickes\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\strickes\\.nuget\\packages"
-    ]
-  }
-}
