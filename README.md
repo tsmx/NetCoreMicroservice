@@ -2,23 +2,20 @@
 
 A very basic .Net Core 3.1 microservice example.
 
+## Prerequisites
+- .Net Core 3.1
+- VS Code plus plugin "C#" [optional]
+- Docker CE [optional]
+
 ## Usage
 
-Run the service and send requests to http://localhost:5000/testservice using the following http methods:
-
-- GET: returns a hello message
-- POST: awaits a valid JSON and echoes it back in the response (serialize & de-serialize test), HTTP-500 if no valid JSON was sent
+Run the service and send requests to the available endpoints listed below.
 
 Creating & running with Docker:
 ```
 docker build -t netcoreservice .
 docker run -d -p 5000:80 netcoreservice
 ```
-
-## Prerequisites
-- .Net Core 3.1
-- VS Code plus plugin "C#" [optional]
-- Docker CE [optional]
 
 ## Endpoints
 
