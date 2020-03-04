@@ -2,29 +2,24 @@
 using System.IO;
 using System.Text;
 using Microsoft.AspNetCore.Mvc;
-using Microsoft.Extensions.Logging;
 using Newtonsoft.Json;
+using NetCoreMicroservice.Domain;
 
 namespace NetCoreMicroservice.Controllers
 {
     [ApiController]
-    [Route("testservice")]
     public class ExampleController : ControllerBase
     {
-        private readonly ILogger<ExampleController> _logger;
-
-        public ExampleController(ILogger<ExampleController> logger)
-        {
-            _logger = logger;
-        }
 
         [HttpGet]
+        [Route("testservice")]
         public string Get()
         {
             return "Hello from .Net-Core to " + HttpContext.Connection.RemoteIpAddress + "!";
         }
 
         [HttpPost]
+        [Route("testservice")]
         public void Post()
         {
             string requestBody;
@@ -47,6 +42,22 @@ namespace NetCoreMicroservice.Controllers
             Response.StatusCode = 200;
             Response.Body.Write(Encoding.ASCII.GetBytes(JsonConvert.SerializeObject(obj, Formatting.Indented)));
             Response.StartAsync();
+        }
+
+        [HttpPost]
+        [Route("testservice/person")]
+        [Consumes("application/json")]
+        public string PostPersonJson([FromBody] Person person)
+        {
+            return "Hello, " + person.FirstName + "! Nice JSON.";
+        }
+
+        [HttpPost]
+        [Route("testservice/person")]
+        [Consumes("application/x-www-form-urlencoded")]
+        public string PostPersonUrlEncoded([FromForm] Person person)
+        {
+            return "Hello, " + person.FirstName + "! Nice URL-Encoding.";
         }
     }
 }
